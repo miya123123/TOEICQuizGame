@@ -1,0 +1,706 @@
+[
+  {
+    "q": "He ___ to the office at 8 every morning.",
+    "choices": ["arrive", "arrives", "arriving", "arrived"],
+    "answer": 1,
+    "explanation": "主語が三人称単数 (He) なので動詞には -s が付いて 'arrives' となります。",
+    "translation": "彼は毎朝8時にオフィスへ到着します。"
+  },
+  {
+    "q": "The report must be submitted ___ next Friday.",
+    "choices": ["by", "on", "at", "in"],
+    "answer": 0,
+    "explanation": "期限を示す場合は前置詞 'by' を用います。",
+    "translation": "その報告書は来週金曜日までに提出しなければなりません。"
+  },
+  {
+    "q": "Please let me know ___ you have any questions.",
+    "choices": ["that", "whether", "what", "how"],
+    "answer": 1,
+    "explanation": "『～かどうか』は 'whether' を使います。",
+    "translation": "ご不明点があるかどうかお知らせください。"
+  },
+  {
+    "q": "The new product line has been very successful, ___?",
+    "choices": ["doesn't it", "hasn't it", "isn't it", "wasn't it"],
+    "answer": 1,
+    "explanation": "直前の文が現在完了形 (has been) なので付加疑問も 'hasn't it' となります。",
+    "translation": "新しい製品ラインはとても成功していますよね？"
+  },
+  {
+    "q": "Mr. Tanaka will speak ___ the importance of customer service.",
+    "choices": ["with", "for", "about", "into"],
+    "answer": 2,
+    "explanation": "『～について話す』は 'speak about' を用います。",
+    "translation": "田中氏は顧客サービスの重要性について話します。"
+  },
+  {
+    "q": "The meeting was postponed ___ the CEO's absence.",
+    "choices": ["because", "due to", "although", "while"],
+    "answer": 1,
+    "explanation": "'due to' は『～が原因で』を表す前置詞句です。",
+    "translation": "その会議はCEOの欠席により延期されました。"
+  },
+  {
+    "q": "Employees are encouraged to recycle their paper to reduce ___ waste.",
+    "choices": ["environment", "environmental", "environmentally", "environmented"],
+    "answer": 1,
+    "explanation": "名詞 'waste' を修飾する形容詞は 'environmental' です。",
+    "translation": "従業員は環境廃棄物を削減するために紙のリサイクルが推奨されています。"
+  },
+  {
+    "q": "The hotel offers its guests complimentary breakfast ___ Wi-Fi.",
+    "choices": ["as well", "in spite of", "as far as", "as well as"],
+    "answer": 3,
+    "explanation": "『～だけでなく…も』は 'as well as' を使います。",
+    "translation": "そのホテルは宿泊客に無料の朝食に加えて Wi‑Fi も提供しています。"
+  },
+  {
+    "q": "We need a more ___ approach to marketing.",
+    "choices": ["create", "creative", "creativity", "created"],
+    "answer": 1,
+    "explanation": "名詞 'approach' を修飾する形容詞は 'creative' です。",
+    "translation": "私たちはマーケティングに対してより創造的なアプローチが必要です。"
+  },
+  {
+    "q": "The shipment will arrive no later than Friday, ___?",
+    "choices": ["will it", "won't it", "is it", "isn't it"],
+    "answer": 1,
+    "explanation": "主文が肯定の未来形 'will arrive' なので付加疑問は否定の 'won't it' となります。",
+    "translation": "その出荷は遅くとも金曜日までには届きますよね？"
+  }
+  ,
+  {
+    "q": "We have decided to ___ our factory to improve efficiency.",
+    "choices": ["modern", "modernize", "modernized", "modernization"],
+    "answer": 1,
+    "explanation": "動詞が必要なので 'modernize' が適切です。",
+    "translation": "私たちは効率を改善するため工場を近代化することを決定しました。"
+  },
+  {
+    "q": "All invoices should be submitted ___ ten days of receipt.",
+    "choices": ["within", "between", "during", "for"],
+    "answer": 0,
+    "explanation": "期間を表す場合は 'within + 期間' を用います。",
+    "translation": "すべての請求書は受領後10日以内に提出されるべきです。"
+  },
+  {
+    "q": "The manager apologized ___ the delay in responding.",
+    "choices": ["about", "for", "with", "of"],
+    "answer": 1,
+    "explanation": "'apologize for' で『～について謝罪する』となります。",
+    "translation": "マネージャーは返答が遅れたことを謝罪しました。"
+  },
+  {
+    "q": "Neither the director nor the actors ___ satisfied with the script.",
+    "choices": ["was", "were", "is", "has been"],
+    "answer": 1,
+    "explanation": "'Neither A nor B' では動詞は後ろの B に一致し、複数形 'actors' に合わせ 'were' となります。",
+    "translation": "監督も俳優たちも脚本に満足していませんでした。"
+  },
+  {
+    "q": "Ms. Gomez is the ___ qualified candidate for the position.",
+    "choices": ["more", "most", "much", "many"],
+    "answer": 1,
+    "explanation": "最上級を表すため 'most' が用いられます。",
+    "translation": "ゴメスさんがその職に最も適任な候補者です。"
+  },
+  {
+    "q": "The seminar will begin at 9 a.m. and last ___ three hours.",
+    "choices": ["approximately", "approximate", "approximation", "approximated"],
+    "answer": 0,
+    "explanation": "動詞 'last' を修飾する副詞は 'approximately' です。",
+    "translation": "そのセミナーは午前9時に始まり約3時間続きます。"
+  },
+  {
+    "q": "Due to unforeseen circumstances, the flight has been ___ until tomorrow morning.",
+    "choices": ["canceled", "delayed", "postponed", "stopped"],
+    "answer": 2,
+    "explanation": "ここでは『延期される』の意味で 'postponed' が適切です。",
+    "translation": "予期しない事情により、フライトは翌朝まで延期されました。"
+  },
+  {
+    "q": "Please fill out the form carefully to avoid any ___ .",
+    "choices": ["confuse", "confusion", "confusing", "confused"],
+    "answer": 1,
+    "explanation": "'any' の後には名詞が来るため 'confusion' を選びます。",
+    "translation": "いかなる混乱も避けるためフォームを慎重に記入してください。"
+  },
+  {
+    "q": "The company offers a wide range of services, including market research ___ product design.",
+    "choices": ["as well as", "instead of", "even though", "apart from"],
+    "answer": 0,
+    "explanation": "『AだけでなくBも』の意味で 'as well as' を用います。",
+    "translation": "その会社は市場調査だけでなく製品設計を含む幅広いサービスを提供しています。"
+  },
+  {
+    "q": "Not only the staff but also the president ___ attending the ceremony.",
+    "choices": ["are", "were", "is", "be"],
+    "answer": 2,
+    "explanation": "'Not only A but also B' では動詞は B に一致し、単数の 'president' に合わせ 'is' となります。",
+    "translation": "スタッフだけでなく社長も式典に出席します。"
+  },
+  {
+    "q": "If you had left earlier, you ___ the train.",
+    "choices": ["will catch", "would catch", "would have caught", "catch"],
+    "answer": 2,
+    "explanation": "仮定法過去完了では 'would have + 過去分詞' を用います。",
+    "translation": "もしもっと早く出発していれば、その電車に乗れたのに。"
+  },
+  {
+    "q": "The proposal was rejected because it was considered too ___ .",
+    "choices": ["expense", "expensively", "expensive", "expensiveness"],
+    "answer": 2,
+    "explanation": "形容詞 'expensive' が空所を補います。",
+    "translation": "その提案は高すぎると見なされたため却下されました。"
+  },
+  {
+    "q": "Our profits this quarter are higher than ___ of last year.",
+    "choices": ["those", "that", "them", "these"],
+    "answer": 0,
+    "explanation": "複数名詞 'profits' を受ける代名詞は 'those' です。",
+    "translation": "今期の利益は昨年のそれらより高いです。"
+  },
+  {
+    "q": "Customers can track their orders online once they ___ shipped.",
+    "choices": ["will be", "were", "have been", "are"],
+    "answer": 2,
+    "explanation": "『～したらすぐに』を示す現在完了形 'have been shipped' が適切です。",
+    "translation": "注文品が発送され次第、顧客はオンラインで追跡できます。"
+  },
+  {
+    "q": "The new software enables employees to work ___ from home.",
+    "choices": ["efficient", "efficiently", "efficiency", "efficiencies"],
+    "answer": 1,
+    "explanation": "動詞 'work' を修飾する副詞 'efficiently' を選びます。",
+    "translation": "新しいソフトウェアにより従業員は在宅でも効率的に働くことができます。"
+  },
+  {
+    "q": "There is still ___ time to revise the budget before the meeting.",
+    "choices": ["few", "little", "many", "several"],
+    "answer": 1,
+    "explanation": "不可算名詞 'time' には 'little' が用いられます。",
+    "translation": "会議前に予算を修正する時間はまだわずかにあります。"
+  },
+  {
+    "q": "The security guidelines require that all visitors ___ their ID badges at all times.",
+    "choices": ["wear", "wore", "wears", "will wear"],
+    "answer": 0,
+    "explanation": "'require that' の後は原形動詞 'wear' を用います。",
+    "translation": "セキュリティガイドラインでは訪問者が常にIDバッジを着用することを要求しています。"
+  },
+  {
+    "q": "Mr. Lee has worked for the company ___ over twenty years.",
+    "choices": ["since", "during", "for", "from"],
+    "answer": 2,
+    "explanation": "期間を示す場合は前置詞 'for' を使います。",
+    "translation": "リー氏は20年以上その会社で働いています。"
+  },
+  {
+    "q": "The brochure provides detailed information about the resort, ___ maps of the surrounding area.",
+    "choices": ["as a result", "in addition to", "such as", "instead"],
+    "answer": 1,
+    "explanation": "『～に加えて』は 'in addition to' を用います。",
+    "translation": "パンフレットにはリゾートに関する詳細情報に加えて周辺地図も掲載されています。"
+  },
+  {
+    "q": "Although the retailer had advertised big discounts, the prices were ___ reduced.",
+    "choices": ["hardly", "deeply", "largely", "easily"],
+    "answer": 0,
+    "explanation": "'hardly' は『ほとんど～ない』を意味します。",
+    "translation": "小売店は大幅割引を宣伝していたが、価格はほとんど下がっていませんでした。"
+  }
+  ,
+  {
+    "q": "The team will meet ___ Monday to discuss the new project.",
+    "choices": ["in", "on", "at", "for"],
+    "answer": 1,
+    "explanation": "曜日の前には前置詞 'on' を使います。",
+    "translation": "チームは新しいプロジェクトについて話し合うため月曜日に会います。"
+  },
+  {
+    "q": "The CEO will not attend the conference ___ he is on a business trip.",
+    "choices": ["because", "although", "unless", "but"],
+    "answer": 0,
+    "explanation": "理由を表す接続詞 'because' が適切です。",
+    "translation": "CEOは出張中のためその会議に出席しません。"
+  },
+  {
+    "q": "All employees must ___ the safety regulations.",
+    "choices": ["obey", "obeys", "obedient", "obedience"],
+    "answer": 0,
+    "explanation": "動詞の原形 'obey' が必要です。",
+    "translation": "全従業員は安全規則に従わなければなりません。"
+  },
+  {
+    "q": "The package was delivered to the wrong address due to a ___ labeling error.",
+    "choices": ["simple", "simply", "simplicity", "simplify"],
+    "answer": 0,
+    "explanation": "名詞 'error' を修飾する形容詞 'simple' が適切です。",
+    "translation": "その荷物は単純なラベルミスにより誤った住所に配達されました。"
+  },
+  {
+    "q": "Please be sure to turn ___ the lights before leaving.",
+    "choices": ["up", "off", "over", "out"],
+    "answer": 1,
+    "explanation": "'turn off' で『電源を切る』を意味します。",
+    "translation": "退出する前に必ず電気を消してください。"
+  },
+  {
+    "q": "The new intern is eager to learn and works ___ .",
+    "choices": ["hard", "hardly", "harder", "hardest"],
+    "answer": 0,
+    "explanation": "副詞として '一生懸命に' は 'hard' を使います。 'hardly' は 'ほとんど～ない' を意味します。",
+    "translation": "新しいインターンは学ぶ意欲が高く、一生懸命働きます。"
+  },
+  {
+    "q": "Tickets will be available ___ a first-come, first-served basis.",
+    "choices": ["in", "on", "at", "for"],
+    "answer": 1,
+    "explanation": "決まり文句 'on a first‑come, first‑served basis' では前置詞 'on' を用います。",
+    "translation": "チケットは先着順で入手可能です。"
+  },
+  {
+    "q": "The contract must be signed by both parties ___ it becomes valid.",
+    "choices": ["so", "before", "until", "after"],
+    "answer": 1,
+    "explanation": "契約が有効になる『前に』署名が必要なので 'before' を選びます。",
+    "translation": "契約は両当事者が署名する前は有効になりません。"
+  },
+  {
+    "q": "We have decided to hire a consultant to ___ the marketing strategy.",
+    "choices": ["evaluate", "evaluation", "evaluating", "evaluated"],
+    "answer": 0,
+    "explanation": "目的を示す to + 動詞の原形 'evaluate' が適切です。",
+    "translation": "私たちはマーケティング戦略を評価するためコンサルタントを雇うことに決めました。"
+  },
+  {
+    "q": "Due to the severe weather, the event was ___ canceled.",
+    "choices": ["abruptly", "gradually", "frequently", "rarely"],
+    "answer": 0,
+    "explanation": "文脈から『突然』を意味する副詞 'abruptly' が適切です。",
+    "translation": "悪天候のため、そのイベントは突然中止されました。"
+  },
+  {
+    "q": "___ the high demand, additional staff were hired.",
+    "choices": ["Thanks to", "Despite", "Because", "During"],
+    "answer": 0,
+    "explanation": "'Thanks to' は『～のおかげで』を表します。",
+    "translation": "高い需要のおかげで、追加のスタッフが雇われました。"
+  },
+  {
+    "q": "Mr. O'Connor was promoted to sales manager ___ his excellent performance.",
+    "choices": ["because of", "although", "despite", "instead of"],
+    "answer": 0,
+    "explanation": "理由を表す前置詞句 'because of' が最適です。",
+    "translation": "オコナー氏は優れた業績のため営業マネージャーに昇進しました。"
+  },
+  {
+    "q": "The memo was sent to all employees to ___ them of the policy changes.",
+    "choices": ["remind", "reminder", "reminded", "reminding"],
+    "answer": 0,
+    "explanation": "to 不定詞の後には動詞の原形 'remind' が続きます。",
+    "translation": "そのメモは方針変更を従業員に知らせるため送られました。"
+  },
+  {
+    "q": "The project is progressing smoothly and is ___ to be completed by July.",
+    "choices": ["expected", "expecting", "expects", "expect"],
+    "answer": 0,
+    "explanation": "受動態 'is expected to' を使って『～と期待されている』を表します。",
+    "translation": "プロジェクトは順調に進んでおり、7月までに完了すると見込まれています。"
+  },
+  {
+    "q": "Our company will open a new branch ___ the end of the year.",
+    "choices": ["by", "until", "during", "from"],
+    "answer": 0,
+    "explanation": "期限を示す表現では前置詞 'by' が使われます。",
+    "translation": "当社は年末までに新しい支店を開設します。"
+  },
+  {
+    "q": "Please make sure the report is ___ for any spelling mistakes.",
+    "choices": ["reviewed", "review", "reviewing", "reviews"],
+    "answer": 0,
+    "explanation": "受動態 'is reviewed' が必要です。",
+    "translation": "報告書がスペルミスについてレビューされていることを確認してください。"
+  },
+  {
+    "q": "The supervisor suggested that each team member ___ a short presentation.",
+    "choices": ["gives", "give", "gave", "given"],
+    "answer": 1,
+    "explanation": "'suggest' の that 節では原形動詞 'give' を使います（仮定法現在）。",
+    "translation": "上司は各チームメンバーが短いプレゼンを行うよう提案しました。"
+  },
+  {
+    "q": "We cannot process your order ___ we receive payment.",
+    "choices": ["until", "while", "during", "since"],
+    "answer": 0,
+    "explanation": "『～するまで』を意味する接続詞 'until' を使用します。",
+    "translation": "お支払いを受け取るまで、ご注文を処理できません。"
+  },
+  {
+    "q": "The instructions were so complicated that ___ people could understand them.",
+    "choices": ["few", "little", "a few", "many"],
+    "answer": 0,
+    "explanation": "可算名詞 'people' を修飾し『ほとんど～ない』を意味するのは 'few' です。",
+    "translation": "説明が非常に複雑だったため、それを理解できる人はほとんどいませんでした。"
+  },
+  {
+    "q": "The finance department will analyze the data and ___ a detailed report.",
+    "choices": ["prepare", "preparing", "preparation", "prepared"],
+    "answer": 0,
+    "explanation": "動詞 'will' の後には原形 'prepare' が続きます。",
+    "translation": "財務部はデータを分析し、詳細な報告書を作成します。"
+  }
+  ,
+  {
+    "q": "The accountant double‑checked the figures to ___ any errors.",
+    "choices": ["avoid", "avoidance", "avoiding", "avoided"],
+    "answer": 0,
+    "explanation": "to + 動詞の原形で目的を表すため 'avoid' を用います。",
+    "translation": "会計士は誤りを避けるため数字を二重チェックしました。"
+  },
+  {
+    "q": "___ the renovation, the store will remain closed.",
+    "choices": ["During", "While", "Because", "Until"],
+    "answer": 0,
+    "explanation": "『～の間』を表す前置詞は 'during' です。",
+    "translation": "改装の間、店は閉店したままです。"
+  },
+  {
+    "q": "The brochure was designed ___ attract international tourists.",
+    "choices": ["to", "for", "in", "at"],
+    "answer": 0,
+    "explanation": "目的を示す 'to + 動詞の原形' が必要です。",
+    "translation": "そのパンフレットは海外からの観光客を引きつけるために作られました。"
+  },
+  {
+    "q": "All applications must be submitted ___ electronic mail.",
+    "choices": ["via", "between", "among", "onto"],
+    "answer": 0,
+    "explanation": "『～を通じて』は前置詞 'via' を使います。",
+    "translation": "すべての申請書は電子メールで提出しなければなりません。"
+  },
+  {
+    "q": "The speaker talked so quietly that I could ___ hear him.",
+    "choices": ["barely", "almost", "hard", "nearly"],
+    "answer": 0,
+    "explanation": "『ほとんど～ない』を意味する副詞は 'barely' です。",
+    "translation": "講演者がとても静かに話したため、私は彼の声がほとんど聞こえませんでした。"
+  },
+  {
+    "q": "If the product is defective, you may return it ___ a full refund.",
+    "choices": ["for", "to", "as", "with"],
+    "answer": 0,
+    "explanation": "『～を求めて』の意味で 'for a refund' という表現を用います。",
+    "translation": "製品に欠陥がある場合、全額返金のために返品できます。"
+  },
+  {
+    "q": "The supervisor asked that the report ___ completed by Friday.",
+    "choices": ["be", "is", "was", "will be"],
+    "answer": 0,
+    "explanation": "'ask that' + 主語 + 原形動詞（仮定法現在）なので 'be' を選びます。",
+    "translation": "上司はその報告書が金曜日までに完成するよう依頼しました。"
+  },
+  {
+    "q": "Neither the employees nor the manager ___ aware of the new rule.",
+    "choices": ["was", "were", "are", "is"],
+    "answer": 3,
+    "explanation": "動詞は後ろの主語 'manager'（単数）に一致し、現在形 'is' が正しいです。",
+    "translation": "従業員もマネージャーも新しい規則を認識していません。"
+  },
+  {
+    "q": "The marketing department is responsible ___ promoting the new line.",
+    "choices": ["for", "to", "with", "of"],
+    "answer": 0,
+    "explanation": "'be responsible for' で『～の責任がある』となります。",
+    "translation": "マーケティング部は新しい製品ラインの宣伝を担当しています。"
+  },
+  {
+    "q": "The shipment arrived earlier than we ___ .",
+    "choices": ["expected", "expect", "will expect", "had expected"],
+    "answer": 0,
+    "explanation": "『予想していたより早く』は過去形 'expected' を使います。",
+    "translation": "その荷物は私たちが予想していたより早く到着しました。"
+  },
+  {
+    "q": "Because of the budget cut, the team has to work with ___ resources.",
+    "choices": ["limited", "little", "few", "short"],
+    "answer": 0,
+    "explanation": "名詞 'resources' を修飾する形容詞は 'limited' が最も自然です。",
+    "translation": "予算削減のため、チームは限られた資源で作業しなければなりません。"
+  },
+  {
+    "q": "Our new printer is much faster ___ the old one.",
+    "choices": ["than", "to", "as", "from"],
+    "answer": 0,
+    "explanation": "比較級には 'than' を用います。",
+    "translation": "私たちの新しいプリンターは旧型よりもはるかに速いです。"
+  },
+  {
+    "q": "Please contact me if you need ___ assistance.",
+    "choices": ["further", "farther", "future", "following"],
+    "answer": 0,
+    "explanation": "追加の支援を表す表現は 'further assistance' です。",
+    "translation": "追加の支援が必要な場合はご連絡ください。"
+  },
+  {
+    "q": "The document should be stored in a safe place ___ it contains confidential information.",
+    "choices": ["since", "although", "unless", "so that"],
+    "answer": 0,
+    "explanation": "理由を示す接続詞 'since' が適切です。",
+    "translation": "機密情報が含まれているため、その書類は安全な場所に保管すべきです。"
+  },
+  {
+    "q": "The training session will begin promptly ___ 2:00 p.m.",
+    "choices": ["at", "on", "in", "by"],
+    "answer": 0,
+    "explanation": "時刻の前には前置詞 'at' を用います。",
+    "translation": "研修は午後2時ちょうどに開始されます。"
+  },
+  {
+    "q": "Each of the candidates ___ required to submit three references.",
+    "choices": ["is", "are", "was", "were"],
+    "answer": 0,
+    "explanation": "'each of' の後の動詞は単数扱いとなり 'is' を使います。",
+    "translation": "候補者一人一人が3通の推薦状を提出する必要があります。"
+  },
+  {
+    "q": "The company decided to invest in renewable energy ___ reduce costs.",
+    "choices": ["to", "so", "that", "for"],
+    "answer": 0,
+    "explanation": "目的を表す 'to + 動詞の原形' が必要です。",
+    "translation": "会社はコスト削減のため再生可能エネルギーに投資することを決定しました。"
+  },
+  {
+    "q": "Customers who purchase more than ten units will receive a ___ discount.",
+    "choices": ["bulk", "bulky", "balk", "bulkly"],
+    "answer": 0,
+    "explanation": "大量購入割引は 'bulk discount' と呼ばれます。",
+    "translation": "10個以上購入する顧客はまとめ買い割引を受けられます。"
+  },
+  {
+    "q": "The oven should be allowed to cool ___ before cleaning.",
+    "choices": ["completely", "complete", "completes", "completion"],
+    "answer": 0,
+    "explanation": "動詞 'cool' を修飾する副詞 'completely' が必要です。",
+    "translation": "掃除する前にオーブンを完全に冷ます必要があります。"
+  },
+  {
+    "q": "We will proceed with the project, ___ the client's approval.",
+    "choices": ["pending", "depending", "regarding", "considering"],
+    "answer": 0,
+    "explanation": "'pending' は『～を条件として』という意味で用いられます。",
+    "translation": "クライアントの承認を条件として、私たちはプロジェクトを進めます。"
+  }
+  ,
+  {
+    "q": "The annual report will be released ___ next month.",
+    "choices": ["early", "earlier", "earliest", "earlyer"],
+    "answer": 0,
+    "explanation": "副詞 'early' が『早い時期に』を表し適切です。",
+    "translation": "年次報告書は来月早々に公開される予定です。"
+  },
+  {
+    "q": "To reduce expenses, the company decided to ___ its office space.",
+    "choices": ["downsize", "downsizing", "downsized", "downsizeing"],
+    "answer": 0,
+    "explanation": "不定詞の後には動詞の原形 'downsize' を用います。",
+    "translation": "経費削減のため、会社はオフィス面積を縮小することに決めました。"
+  },
+  {
+    "q": "Ms. Patel is responsible for ___ the training program.",
+    "choices": ["coordinating", "coordinate", "coordinated", "coordination"],
+    "answer": 0,
+    "explanation": "前置詞 'for' の後には動名詞 'coordinating' が続きます。",
+    "translation": "パテルさんは研修プログラムの調整を担当しています。"
+  },
+  {
+    "q": "The new policy goes into effect ___ March 1.",
+    "choices": ["on", "in", "at", "by"],
+    "answer": 0,
+    "explanation": "日付の前には前置詞 'on' を使います。",
+    "translation": "新しい方針は3月1日に施行されます。"
+  },
+  {
+    "q": "The equipment must be handled carefully to prevent ___ .",
+    "choices": ["damage", "damages", "damaging", "damaged"],
+    "answer": 0,
+    "explanation": "不可算名詞 'damage' が最適です。",
+    "translation": "損傷を防ぐため、機器は慎重に扱う必要があります。"
+  },
+  {
+    "q": "___ his busy schedule, Mr. Kim attended the meeting.",
+    "choices": ["Despite", "Although", "Because", "During"],
+    "answer": 0,
+    "explanation": "逆接を表す前置詞 'Despite' が適切です。",
+    "translation": "多忙なスケジュールにもかかわらず、キム氏は会議に出席しました。"
+  },
+  {
+    "q": "The supplier promised to deliver the parts ___ two weeks.",
+    "choices": ["within", "between", "among", "inside"],
+    "answer": 0,
+    "explanation": "期間内を示す 'within + 期間' を用います。",
+    "translation": "サプライヤーは2週間以内に部品を納品すると約束しました。"
+  },
+  {
+    "q": "All candidates are encouraged to apply, ___ their background.",
+    "choices": ["regardless of", "in spite", "due to", "apart"],
+    "answer": 0,
+    "explanation": "『～に関係なく』は 'regardless of' です。",
+    "translation": "経歴に関係なく、すべての候補者に応募を推奨します。"
+  },
+  {
+    "q": "The presentation was informative; ___, it was too long.",
+    "choices": ["however", "therefore", "otherwise", "moreover"],
+    "answer": 0,
+    "explanation": "対照を示す副詞 'however' が最適です。",
+    "translation": "そのプレゼンは有益でしたが、しかし長すぎました。"
+  },
+  {
+    "q": "The board of directors ___ the proposal after lengthy discussion.",
+    "choices": ["approved", "approve", "approving", "has approve"],
+    "answer": 0,
+    "explanation": "過去の出来事なので過去形 'approved' を使います。",
+    "translation": "取締役会は長い議論の末、その提案を承認しました。"
+  },
+  {
+    "q": "The printer is out of paper; please add ___ sheets.",
+    "choices": ["some", "any", "little", "each"],
+    "answer": 0,
+    "explanation": "肯定文の中で数量を表す際は 'some' を用います。",
+    "translation": "プリンターの用紙が切れています。何枚か補充してください。"
+  },
+  {
+    "q": "The employees received bonuses ___ their hard work.",
+    "choices": ["in recognition of", "in addition to", "on behalf of", "in case of"],
+    "answer": 0,
+    "explanation": "『～を称えて』は 'in recognition of' を用います。",
+    "translation": "従業員はその勤勉さを称えて賞与を受け取りました。"
+  },
+  {
+    "q": "Every application will be reviewed, and a response will be sent ___ .",
+    "choices": ["accordingly", "approximately", "nearly", "lately"],
+    "answer": 0,
+    "explanation": "文脈から『それに応じて』を意味する副詞 'accordingly' が適切です。",
+    "translation": "すべての申請を審査し、対応した返答を送付いたします。"
+  },
+  {
+    "q": "The conference room was large enough to ___ 100 attendees.",
+    "choices": ["accommodate", "accommodate for", "accommodating", "accommodated"],
+    "answer": 0,
+    "explanation": "動詞 'accommodate' で『収容する』を表します。",
+    "translation": "会議室は100人の参加者を収容できる十分な広さでした。"
+  },
+  {
+    "q": "The website was unavailable yesterday because the server was ___ maintenance.",
+    "choices": ["under", "below", "in", "at"],
+    "answer": 0,
+    "explanation": "『～中で』を表す慣用句は 'under maintenance' です。",
+    "translation": "サーバーがメンテナンス中だったため、昨日はウェブサイトが利用できませんでした。"
+  },
+  {
+    "q": "We will notify you ___ the product becomes available again.",
+    "choices": ["as soon as", "as long as", "as far as", "as much as"],
+    "answer": 0,
+    "explanation": "『～するとすぐに』を意味する接続詞は 'as soon as' です。",
+    "translation": "商品が再入荷次第、ご連絡いたします。"
+  },
+  {
+    "q": "The memo should be distributed to all employees ___ .",
+    "choices": ["immediately", "immediate", "immediacy", "immediating"],
+    "answer": 0,
+    "explanation": "副詞 'immediately' が動詞 'be distributed' を修飾します。",
+    "translation": "そのメモは直ちに全従業員へ配布されるべきです。"
+  },
+  {
+    "q": "The guitar that was on sale has been sold, and there are ___ left.",
+    "choices": ["none", "no", "nothing", "neither"],
+    "answer": 0,
+    "explanation": "代名詞 'none' が『残りは一つもない』を表します。",
+    "translation": "セール品だったギターは売れてしまい、残りはありません。"
+  },
+  {
+    "q": "The hotel offers several amenities, ___ a swimming pool and a fitness center.",
+    "choices": ["such as", "so as", "as if", "as though"],
+    "answer": 0,
+    "explanation": "例示を示す 'such as' が適切です。",
+    "translation": "そのホテルはプールやフィットネスセンターなどの設備を提供しています。"
+  },
+  {
+    "q": "All participants must arrive ___ 15 minutes before the start time.",
+    "choices": ["at least", "at last", "at most", "at best"],
+    "answer": 0,
+    "explanation": "『少なくとも』を意味する慣用句は 'at least' です。",
+    "translation": "参加者は開始時刻の少なくとも15分前に到着しなければなりません。"
+  },
+  {
+    "q": "The lease agreement will expire next month ___ renewed.",
+    "choices": ["unless", "if", "whether", "because"],
+    "answer": 0,
+    "explanation": "『～しない限り』を表す接続詞 'unless' が適切です。",
+    "translation": "更新されない限り、賃貸契約は来月満了します。"
+  },
+  {
+    "q": "The cafeteria is closed today ___ routine cleaning.",
+    "choices": ["for", "by", "of", "to"],
+    "answer": 0,
+    "explanation": "理由を表す 'for'（～のために）が使われます。",
+    "translation": "定期清掃のため、本日はカフェテリアが休業しています。"
+  },
+  {
+    "q": "The designer presented three ___ concepts to the client.",
+    "choices": ["innovative", "innovation", "innovate", "innovated"],
+    "answer": 0,
+    "explanation": "名詞 'concepts' を修飾する形容詞 'innovative' が必要です。",
+    "translation": "デザイナーはクライアントに3つの革新的なコンセプトを提示しました。"
+  },
+  {
+    "q": "The train was canceled, so we had to find an ___ route.",
+    "choices": ["alternative", "alternate", "alternatives", "alternatively"],
+    "answer": 0,
+    "explanation": "形容詞 'alternative' が名詞 'route' を修飾します。",
+    "translation": "列車が運休となったため、私たちは別の経路を探さなければなりませんでした。"
+  },
+  {
+    "q": "All mobile phones must be switched ___ during the performance.",
+    "choices": ["off", "out", "up", "over"],
+    "answer": 0,
+    "explanation": "電源を切る表現は 'switch off' です。",
+    "translation": "公演中は携帯電話の電源を切ってください。"
+  },
+  {
+    "q": "There has been a significant increase ___ sales this quarter.",
+    "choices": ["in", "on", "at", "for"],
+    "answer": 0,
+    "explanation": "増加・減少を示すときは前置詞 'in' を用います。",
+    "translation": "今期は売上が大幅に増加しています。"
+  },
+  {
+    "q": "The manager will review your request and get back to you ___ .",
+    "choices": ["shortly", "short", "shorten", "shortening"],
+    "answer": 0,
+    "explanation": "副詞 'shortly' が『まもなく』を表します。",
+    "translation": "マネージャーがご要望を確認し、まもなくご連絡いたします。"
+  },
+  {
+    "q": "The instructions are simple enough for anyone to ___ .",
+    "choices": ["follow", "following", "follows", "followed"],
+    "answer": 0,
+    "explanation": "to 不定詞の後は動詞の原形 'follow' を用います。",
+    "translation": "その説明は誰でも従えるほど簡単です。"
+  },
+  {
+    "q": "The contract was signed ___ both parties agreed to the terms.",
+    "choices": ["after", "before", "while", "where"],
+    "answer": 0,
+    "explanation": "時の順序を示す接続詞 'after' が適切です。",
+    "translation": "両当事者が条件に合意した後、契約が署名されました。"
+  },
+  {
+    "q": "Our office will be relocating to a new building ___ the end of August.",
+    "choices": ["at", "by", "in", "on"],
+    "answer": 0,
+    "explanation": "特定の時点を示す 'at the end of August' が自然です。",
+    "translation": "当社のオフィスは8月末に新しいビルへ移転します。"
+  }
+]
